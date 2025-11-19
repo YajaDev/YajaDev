@@ -6,14 +6,14 @@
 🌱 Learning Backend soon (Node.js, Express, APIs, MongoDB)
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🌐 Frontend (Current Focus)
+### Frontend (Current Focus)
 - JavaScript, TypeScript  
 - React, Tailwind CSS  
 - HTML, CSS  
 
-### 🛠 Backend (Learning Soon)
+### Backend (Learning Soon)
 - Node.js  
 - Express.js  
 - MongoDB / Firebase
