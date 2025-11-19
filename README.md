@@ -2,10 +2,9 @@
 
 🎓 **BSIT Student | ICCT Colleges**  
 💻 **Future Full-Stack Developer — currently focusing on Frontend**  
-  Building responsive and modern web apps using **React + TypeScript + Tailwind**  
-  Learning Backend soon (Node.js, Express, APIs, MongoDB)
+🌐 Building responsive and modern web apps using **React + TypeScript + Tailwind**  
+🚀 Learning Backend soon (Node.js, Express, APIs, MongoDB)
 
----
 
 ## 🚀 Tech Stack
 
@@ -17,8 +16,9 @@
 ### 🛠 Backend (Learning Soon)
 - Node.js  
 - Express.js  
-- MongoDB / Firebase  
----
+- MongoDB / Firebase
+  
+
 
 ## 📫 Connect with Me
 
